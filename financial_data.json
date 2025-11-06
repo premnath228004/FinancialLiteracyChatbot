@@ -1,0 +1,651 @@
+{
+  "financial_literacy_terms": [
+    {
+      "id": 101,
+      "topic": "Budgeting & Cash Flow",
+      "question": "Budget",
+      "keywords": [
+        "spending plan",
+        "income vs expenses",
+        "financial blueprint"
+      ],
+      "response": "A **Budget** is a detailed plan for managing your money, projecting your income and estimating your expenses over a specific period. It ensures you spend less than you earn.",
+      "response_hindi": "एक **बजट** आपके पैसे के प्रबंधन, आपकी आय का अनुमान लगाने और एक विशिष्ट अवधि में आपके खर्चों का आकलन करने की एक विस्तृत योजना है। यह सुनिश्चित करता है कि आप अपनी कमाई से कम खर्च करें।"
+    },
+    {
+      "id": 102,
+      "topic": "Budgeting & Cash Flow",
+      "question": "Net Income",
+      "keywords": [
+        "take-home pay",
+        "after-tax income",
+        "net earnings"
+      ],
+      "response": "Your **Net Income** (or 'take-home pay') is the amount of money you receive from your salary after all mandatory deductions, such as taxes and insurance, have been withheld.",
+      "response_hindi": "आपकी **शुद्ध आय** (या 'टेक-होम पे') वह राशि है जो आपको करों और बीमा जैसे सभी अनिवार्य कटौतियों के बाद आपके वेतन से प्राप्त होती है।"
+    },
+    {
+      "id": 103,
+      "topic": "Budgeting & Cash Flow",
+      "question": "Fixed Expenses",
+      "keywords": [
+        "set bills",
+        "non-negotiable costs",
+        "monthly rent"
+      ],
+      "response": "Expenses that remain the same each month, such as rent/mortgage, insurance premiums, or car payments.",
+      "response_hindi": "वे खर्च जो हर महीने समान रहते हैं, जैसे किराया/गिरवी, बीमा प्रीमियम, या कार भुगतान।"
+    },
+    {
+      "id": 104,
+      "topic": "Budgeting & Cash Flow",
+      "question": "Variable Expenses",
+      "keywords": [
+        "fluctuating costs",
+        "flexible spending",
+        "groceries gas entertainment"
+      ],
+      "response": "Expenses that change month-to-month based on your consumption or choices, such as groceries, dining out, entertainment, or utility bills.",
+      "response_hindi": "ऐसे खर्च जो आपकी खपत या विकल्पों के आधार पर महीने-दर-महीने बदलते रहते हैं, जैसे किराने का सामान, बाहर खाना, मनोरंजन, या उपयोगिता बिल।"
+    },
+    {
+      "id": 105,
+      "topic": "Budgeting & Cash Flow",
+      "question": "Emergency Fund",
+      "keywords": [
+        "savings safety net",
+        "rainy day money",
+        "3-6 months expenses"
+      ],
+      "response": "A dedicated savings account holding **3 to 6 months of living expenses** to cover unexpected financial hardships, like job loss or medical emergencies.",
+      "response_hindi": "नौकरी छूटने या चिकित्सा आपात स्थिति जैसी अप्रत्याशित वित्तीय कठिनाइयों को कवर करने के लिए **3 से 6 महीने के रहने वाले खर्चों** को रखने वाला एक समर्पित बचत खाता।"
+    },
+    {
+      "id": 106,
+      "topic": "Budgeting & Cash Flow",
+      "question": "Opportunity Cost",
+      "keywords": [
+        "trade-off",
+        "alternative given up",
+        "cost of choosing"
+      ],
+      "response": "The **Opportunity Cost** is the value of the next-best alternative you give up when you make a financial decision. (e.g., the interest you lose by paying cash for a car instead of investing the money).",
+      "response_hindi": "**अवसर लागत** अगले-सर्वोत्तम विकल्प का मूल्य है जिसे आप कोई वित्तीय निर्णय लेते समय छोड़ देते हैं। (उदाहरण के लिए, कार के लिए नकद भुगतान करने के बजाय पैसे का निवेश करने पर आपको जो ब्याज खोना पड़ता है)।"
+    },
+    {
+      "id": 201,
+      "topic": "Debt & Credit",
+      "question": "Credit Score",
+      "keywords": [
+        "FICO score",
+        "credit rating",
+        "creditworthiness"
+      ],
+      "response": "A three-digit number that represents your creditworthiness. Lenders use it to assess the risk of lending you money and to set interest rates.",
+      "response_hindi": "एक तीन अंकों की संख्या जो आपकी साख का प्रतिनिधित्व करती है। ऋणदाता इसका उपयोग आपको पैसे उधार देने के जोखिम का आकलन करने और ब्याज दरें निर्धारित करने के लिए करते हैं।"
+    },
+    {
+      "id": 202,
+      "topic": "Debt & Credit",
+      "question": "Annual Percentage Rate (APR)",
+      "keywords": [
+        "interest rate",
+        "borrowing cost",
+        "credit card fee"
+      ],
+      "response": "The **APR** is the annual rate charged for borrowing money, expressed as a single percentage, including all fees and additional costs.",
+      "response_hindi": "**APR** पैसा उधार लेने के लिए लिया जाने वाला वार्षिक दर है, जिसे सभी शुल्क और अतिरिक्त लागतों सहित एकल प्रतिशत के रूप में व्यक्त किया जाता है।"
+    },
+    {
+      "id": 203,
+      "topic": "Debt & Credit",
+      "question": "Liability",
+      "keywords": [
+        "debt",
+        "money owed",
+        "financial obligation"
+      ],
+      "response": "A financial **Liability** is something you owe to another party, such as a loan, mortgage, or credit card balance.",
+      "response_hindi": "एक वित्तीय **देनदारी** वह है जो आप किसी अन्य पक्ष को देते हैं, जैसे ऋण, गिरवी, या क्रेडिट कार्ड का बकाया।"
+    },
+    {
+      "id": 204,
+      "topic": "Debt & Credit",
+      "question": "Collateral",
+      "keywords": [
+        "secured loan asset",
+        "loan security",
+        "guarantee"
+      ],
+      "response": "An asset (like a house or car) that a borrower offers to a lender to secure a loan. If the borrower defaults, the lender can seize the collateral.",
+      "response_hindi": "एक परिसंपत्ति (जैसे घर या कार) जो एक उधारकर्ता ऋण सुरक्षित करने के लिए एक ऋणदाता को प्रदान करता है। यदि उधारकर्ता डिफ़ॉल्ट करता है, तो ऋणदाता संपार्श्विक जब्त कर सकता है।"
+    },
+    {
+      "id": 205,
+      "topic": "Debt & Credit",
+      "question": "Debt-to-Income (DTI) Ratio",
+      "keywords": [
+        "DTI calculation",
+        "debt measure",
+        "loan eligibility"
+      ],
+      "response": "The percentage of your gross monthly income that goes toward making your minimum monthly debt payments. Lenders use it to gauge your ability to manage payments.",
+      "response_hindi": "आपकी सकल मासिक आय का वह प्रतिशत जो आपके न्यूनतम मासिक ऋण भुगतान करने में जाता है। ऋणदाता इसका उपयोग भुगतान प्रबंधित करने की आपकी क्षमता को मापने के लिए करते हैं।"
+    },
+    {
+      "id": 206,
+      "topic": "Debt & Credit",
+      "question": "Amortization",
+      "keywords": [
+        "loan payoff schedule",
+        "principal and interest payments",
+        "mortgage schedule"
+      ],
+      "response": "The process of paying off debt over time in regular installments, ensuring that each payment covers both the interest accrued and a portion of the principal balance.",
+      "response_hindi": "नियमित किश्तों में समय के साथ ऋण का भुगतान करने की प्रक्रिया, यह सुनिश्चित करना कि प्रत्येक भुगतान अर्जित ब्याज और मूलधन के एक हिस्से दोनों को कवर करता है।"
+    },
+    {
+      "id": 207,
+      "topic": "Debt & Credit",
+      "question": "Credit Utilization",
+      "keywords": [
+        "credit used vs available",
+        "utilization ratio",
+        "credit card limit"
+      ],
+      "response": "The amount of credit you're using compared to your total available credit limit. Keeping this ratio **below 30%** is crucial for a good credit score.",
+      "response_hindi": "आपकी कुल उपलब्ध क्रेडिट सीमा की तुलना में आप उपयोग कर रहे क्रेडिट की राशि। एक अच्छे क्रेडिट स्कोर के लिए इस अनुपात को **30% से नीचे** रखना महत्वपूर्ण है।"
+    },
+    {
+      "id": 301,
+      "topic": "Savings & Investing",
+      "question": "Compound Interest",
+      "keywords": [
+        "interest on interest",
+        "exponential growth",
+        "saving power"
+      ],
+      "response": "Interest calculated on the initial principal *plus* all previously accumulated interest. It allows savings and investments to grow exponentially over time.",
+      "response_hindi": "प्रारंभिक मूलधन *और* पहले से जमा हुए सभी ब्याज पर गणना किया गया ब्याज। यह बचत और निवेश को समय के साथ तेजी से बढ़ने की अनुमति देता है।"
+    },
+    {
+      "id": 302,
+      "topic": "Savings & Investing",
+      "question": "Inflation",
+      "keywords": [
+        "purchasing power loss",
+        "rising prices",
+        "cost of living"
+      ],
+      "response": "The rate at which the general prices for goods and services are rising, which causes your money's **purchasing power to fall** over time.",
+      "response_hindi": "वह दर जिस पर वस्तुओं और सेवाओं के लिए सामान्य कीमतें बढ़ रही हैं, जिसके कारण समय के साथ आपके पैसे की **खरीद शक्ति कम हो जाती है**।"
+    },
+    {
+      "id": 303,
+      "topic": "Savings & Investing",
+      "question": "Asset",
+      "keywords": [
+        "own value",
+        "cash convertible",
+        "property investments"
+      ],
+      "response": "Something of value that you own, which can be converted into cash. Examples include real estate, stocks, bonds, or money in savings accounts.",
+      "response_hindi": "मूल्यवान चीज़ जो आपके पास है, जिसे नकद में परिवर्तित किया जा सकता है। उदाहरणों में रियल एस्टेट, स्टॉक, बॉन्ड या बचत खातों में पैसा शामिल है।"
+    },
+    {
+      "id": 304,
+      "topic": "Savings & Investing",
+      "question": "Diversification",
+      "keywords": [
+        "spread risk",
+        "mix of investments",
+        "not all eggs in one basket"
+      ],
+      "response": "An investment strategy of **spreading your capital** across various asset classes, industries, and regions to reduce the impact of poor performance in any single investment.",
+      "response_hindi": "किसी एक निवेश में खराब प्रदर्शन के प्रभाव को कम करने के लिए विभिन्न परिसंपत्ति वर्गों, उद्योगों और क्षेत्रों में **अपनी पूंजी फैलाने** की एक निवेश रणनीति।"
+    },
+    {
+      "id": 305,
+      "topic": "Savings & Investing",
+      "question": "Stock/Equity",
+      "keywords": [
+        "share ownership",
+        "company ownership",
+        "public stock"
+      ],
+      "response": "A security that represents a fractional ownership in a corporation. **Equity** is another term for ownership.",
+      "response_hindi": "एक सुरक्षा जो किसी निगम में आंशिक स्वामित्व का प्रतिनिधित्व करती है। **इक्विटी** स्वामित्व के लिए एक और शब्द है।"
+    },
+    {
+      "id": 306,
+      "topic": "Savings & Investing",
+      "question": "Bond",
+      "keywords": [
+        "debt security",
+        "IOU",
+        "lending to government/company"
+      ],
+      "response": "A fixed-income investment where you **loan money** to an issuer (typically a government or corporation) in exchange for regular interest payments and the return of the principal on a maturity date.",
+      "response_hindi": "एक निश्चित आय वाला निवेश जहाँ आप नियमित ब्याज भुगतान और परिपक्वता तिथि पर मूलधन की वापसी के बदले एक जारीकर्ता (आमतौर पर एक सरकार या निगम) को **पैसा उधार देते हैं**।"
+    },
+    {
+      "id": 307,
+      "topic": "Savings & Investing",
+      "question": "Mutual Fund",
+      "keywords": [
+        "pooled investment",
+        "managed portfolio",
+        "basket of stocks"
+      ],
+      "response": "A collection of stocks, bonds, or other securities managed by a professional fund manager. Investors pool their money to collectively purchase the fund's holdings.",
+      "response_hindi": "एक पेशेवर फंड मैनेजर द्वारा प्रबंधित स्टॉक, बॉन्ड, या अन्य प्रतिभूतियों का एक संग्रह। निवेशक सामूहिक रूप से फंड की होल्डिंग्स खरीदने के लिए अपना पैसा पूल करते हैं।"
+    },
+    {
+      "id": 308,
+      "topic": "Savings & Investing",
+      "question": "Capital Gains",
+      "keywords": [
+        "profit from sale",
+        "investment appreciation",
+        "selling asset for more"
+      ],
+      "response": "The profit realized when you sell an asset (like a stock or property) for a price higher than the original purchase price.",
+      "response_hindi": "जब आप मूल खरीद मूल्य से अधिक कीमत पर कोई परिसंपत्ति (जैसे स्टॉक या संपत्ति) बेचते हैं तो प्राप्त लाभ।"
+    },
+    {
+      "id": 401,
+      "topic": "Retirement & Tax",
+      "question": "401(k) / IRA",
+      "keywords": [
+        "retirement account",
+        "tax-advantaged savings",
+        "employer match"
+      ],
+      "response": "Tax-advantaged retirement savings plans. A **401(k)** is typically employer-sponsored, while an **IRA** (Individual Retirement Account) is managed by the individual.",
+      "response_hindi": "कर-लाभ वाले सेवानिवृत्ति बचत योजनाएं। एक **401(k)** आमतौर पर नियोक्ता-प्रायोजित होता है, जबकि एक **IRA** (व्यक्तिगत सेवानिवृत्ति खाता) व्यक्ति द्वारा प्रबंधित किया जाता है।"
+    },
+    {
+      "id": 402,
+      "topic": "Retirement & Tax",
+      "question": "Deduction",
+      "keywords": [
+        "tax reduction",
+        "lowering taxable income",
+        "itemized deduction"
+      ],
+      "response": "An amount that can be legally subtracted from your gross income to lower your **taxable income**, thereby reducing the total tax you owe.",
+      "response_hindi": "एक राशि जिसे आपके **कर योग्य आय** को कम करने के लिए आपकी सकल आय से कानूनी रूप से घटाया जा सकता है, जिससे आपके द्वारा देय कुल कर कम हो जाता है।"
+    },
+    {
+      "id": 403,
+      "topic": "Retirement & Tax",
+      "question": "Taxable Income",
+      "keywords": [
+        "income subject to tax",
+        "gross minus deductions",
+        "adjusted income"
+      ],
+      "response": "The portion of your gross income that the government levies taxes on, calculated after subtracting all eligible deductions and exemptions.",
+      "response_hindi": "आपकी सकल आय का वह हिस्सा जिस पर सरकार कर लगाती है, सभी पात्र कटौतियों और छूटों को घटाने के बाद गणना की जाती है।"
+    },
+    {
+      "id": 404,
+      "topic": "Retirement & Tax",
+      "question": "Net Worth",
+      "keywords": [
+        "assets minus liabilities",
+        "true wealth measure",
+        "balance sheet"
+      ],
+      "response": "Your **Net Worth** is a measure of your financial health, calculated as the total value of all your **Assets** minus the total value of all your **Liabilities** (debts).",
+      "response_hindi": "आपकी **शुद्ध संपत्ति** आपके वित्तीय स्वास्थ्य का एक माप है, जिसकी गणना आपकी सभी **परिसंपत्तियों** के कुल मूल्य से आपकी सभी **देनदारियों** (ऋणों) के कुल मूल्य को घटाकर की जाती है।"
+    },
+    {
+      "id": 501,
+      "topic": "Banking & Insurance",
+      "question": "Annual Percentage Yield (APY)",
+      "keywords": [
+        "savings rate",
+        "effective interest rate",
+        "compounded earnings"
+      ],
+      "response": "The **APY** is the real rate of return earned on a savings account or investment over a year, taking the effect of **compound interest** into account.",
+      "response_hindi": "**APY** एक बचत खाते या निवेश पर एक वर्ष में अर्जित वापसी की वास्तविक दर है, जो **चक्रवृद्धि ब्याज** के प्रभाव को ध्यान में रखती है।"
+    },
+    {
+      "id": 502,
+      "topic": "Banking & Insurance",
+      "question": "Liquidity",
+      "keywords": [
+        "cash access",
+        "convert to cash ease",
+        "liquid assets"
+      ],
+      "response": "The ease and speed with which an asset can be converted into cash without affecting its market price. Cash is the most **liquid** asset.",
+      "response_hindi": "वह आसानी और गति जिसके साथ कोई परिसंपत्ति अपने बाजार मूल्य को प्रभावित किए बिना नकद में परिवर्तित की जा सकती है। नकद सबसे **तरल** परिसंपत्ति है।"
+    },
+    {
+      "id": 503,
+      "topic": "Banking & Insurance",
+      "question": "Premium",
+      "keywords": [
+        "insurance payment",
+        "monthly insurance cost",
+        "policy fee"
+      ],
+      "response": "The amount of money paid to an insurance company for an insurance policy on a regular basis (usually monthly or annually).",
+      "response_hindi": "एक बीमा पॉलिसी के लिए एक बीमा कंपनी को नियमित आधार पर (आमतौर पर मासिक या वार्षिक) भुगतान की गई धन राशि।"
+    },
+    {
+      "id": 504,
+      "topic": "Banking & Insurance",
+      "question": "Deductible",
+      "keywords": [
+        "insurance out-of-pocket",
+        "claim cost share",
+        "before insurance pays"
+      ],
+      "response": "The amount you must pay out-of-pocket before your insurance company starts to cover the remaining costs for a covered loss.",
+      "response_hindi": "कवर किए गए नुकसान के लिए आपकी बीमा कंपनी द्वारा शेष लागतों को कवर करना शुरू करने से पहले आपको जेब से भुगतान करनी होगी।"
+    },
+    {
+      "id": 505,
+      "topic": "Banking & Insurance",
+      "question": "Escrow",
+      "keywords": [
+        "third-party holding",
+        "neutral account",
+        "home closing funds"
+      ],
+      "response": "A legal arrangement where a third, neutral party temporarily holds money or assets until a specific transaction condition (like a home sale closing) has been met.",
+      "response_hindi": "एक कानूनी व्यवस्था जहाँ एक तीसरा, तटस्थ पक्ष अस्थायी रूप से धन या संपत्ति रखता है जब तक कि एक विशिष्ट लेनदेन शर्त (जैसे घर की बिक्री बंद होना) पूरी नहीं हो जाती।"
+    }
+  ],
+  "financial_advice": {
+    "title": "Essential Financial Guidance",
+    "saving_tips": [
+      {
+        "id": 1,
+        "tip": "Automate Your Savings",
+        "detail": "Set up automatic transfers to a separate, high-yield savings account immediately after you get paid. Treat it like a non-negotiable bill.",
+        "detail_hindi": "भुगतान मिलते ही एक अलग, उच्च-उपज वाले बचत खाते में स्वचालित स्थानान्तरण सेट करें। इसे एक गैर-परक्राम्य बिल की तरह मानें।"
+      },
+      {
+        "id": 2,
+        "tip": "Adopt the 50/30/20 Rule",
+        "detail": "Allocate your income as: 50% to Needs (bills, rent), 30% to Wants (fun, hobbies), and 20% to Savings and Debt Repayment.",
+        "detail_hindi": "अपनी आय को इस प्रकार आवंटित करें: 50% जरूरतों (बिल, किराया), 30% चाहतों (मौज-मस्ती, शौक), और 20% बचत और ऋण चुकौती के लिए।"
+      },
+      {
+        "id": 3,
+        "tip": "Track Every Expense",
+        "detail": "Use a budgeting app or spreadsheet to categorize and monitor all spending in real-time to find hidden money leaks.",
+        "detail_hindi": "छिपे हुए पैसे के लीक को खोजने के लिए वास्तविक समय में सभी खर्चों को वर्गीकृत और मॉनिटर करने के लिए एक बजटिंग ऐप या स्प्रेडशीट का उपयोग करें।"
+      },
+      {
+        "id": 4,
+        "tip": "Audit & Cancel Unused Subscriptions",
+        "detail": "Review your monthly bank and credit card statements for recurring charges you no longer use (e.g., streaming services, old memberships).",
+        "detail_hindi": "आवर्ती शुल्कों के लिए अपने मासिक बैंक और क्रेडिट कार्ड स्टेटमेंट की समीक्षा करें जिनका आप अब उपयोग नहीं करते हैं (जैसे, स्ट्रीमिंग सेवाएं, पुरानी सदस्यताएं)।"
+      },
+      {
+        "id": 5,
+        "tip": "Negotiate Bills and Services",
+        "detail": "Call service providers (cable, internet, phone, insurance) annually to ask for lower rates or to switch to cheaper plans.",
+        "detail_hindi": "कम दरों के लिए पूछने या सस्ते प्लान पर स्विच करने के लिए सालाना सेवा प्रदाताओं (केबल, इंटरनेट, फोन, बीमा) को कॉल करें।"
+      },
+      {
+        "id": 6,
+        "tip": "Implement 'Saving Round-ups'",
+        "detail": "Automatically round up every purchase to the nearest dollar and transfer the difference to a dedicated savings or investment account.",
+        "detail_hindi": "स्वचालित रूप से हर खरीद को निकटतम डॉलर तक गोल करें और अंतर को एक समर्पित बचत या निवेश खाते में स्थानांतरित करें।"
+      },
+      {
+        "id": 7,
+        "tip": "Maximize Employer Match",
+        "detail": "Contribute at least enough to your 401(k) or retirement plan to receive the full company match, as this is free money.",
+        "detail_hindi": "पूरी कंपनी मैच प्राप्त करने के लिए अपने 401(k) या सेवानिवृत्ति योजना में कम से कम पर्याप्त योगदान करें, क्योंकि यह मुफ्त पैसा है।"
+      },
+      {
+        "id": 8,
+        "tip": "Build a 3-6 Month Emergency Fund",
+        "detail": "Save enough liquid cash to cover essential living expenses for three to six months in case of job loss or a major emergency.",
+        "detail_hindi": "नौकरी छूटने या किसी बड़ी आपात स्थिति में तीन से छह महीने के लिए आवश्यक रहने वाले खर्चों को कवर करने के लिए पर्याप्त तरल नकद बचाएं।"
+      },
+      {
+        "id": 9,
+        "tip": "Create Sinking Funds",
+        "detail": "Set aside a small, consistent amount each month for known large, irregular costs like holidays, car maintenance, or annual insurance payments.",
+        "detail_hindi": "ज्ञात बड़े, अनियमित खर्चों जैसे छुट्टियों, कार रखरखाव, या वार्षिक बीमा भुगतानों के लिए हर महीने एक छोटी, सुसंगत राशि अलग रखें।"
+      },
+      {
+        "id": 10,
+        "tip": "Meal Prep and Cook at Home",
+        "detail": "Significantly reduce spending on dining out and delivery, which is one of the easiest ways to control food costs.",
+        "detail_hindi": "बाहर खाने और डिलीवरी पर खर्च को काफी कम करें, जो भोजन की लागत को नियंत्रित करने के सबसे आसान तरीकों में से एक है।"
+      },
+      {
+        "id": 11,
+        "tip": "Pay Off High-Interest Debt First",
+        "detail": "Focus extra payments on debts with the highest interest rates (e.g., credit cards) to minimize the total amount of interest paid over time.",
+        "detail_hindi": "समय के साथ भुगतान किए गए कुल ब्याज की मात्रा को कम करने के लिए उच्चतम ब्याज दरों वाले ऋणों (जैसे, क्रेडिट कार्ड) पर अतिरिक्त भुगतानों पर ध्यान दें।"
+      },
+      {
+        "id": 12,
+        "tip": "Use the Cash Envelope System",
+        "detail": "Allocate cash into labeled envelopes for variable spending categories (like groceries or entertainment) to prevent overspending in those areas.",
+        "detail_hindi": "उन क्षेत्रों में अत्यधिक खर्च को रोकने के लिए परिवर्तनीय खर्च श्रेणियों (जैसे किराने का सामान या मनोरंजन) के लिए लेबल वाले लिफाफों में नकद आवंटित करें।"
+      },
+      {
+        "id": 13,
+        "tip": "Implement a 24-Hour Rule",
+        "detail": "For any non-essential purchase over a certain dollar amount, wait 24 hours before buying to prevent impulse spending.",
+        "detail_hindi": "किसी निश्चित डॉलर राशि से अधिक की किसी भी गैर-आवश्यक खरीद के लिए, आवेगी खर्च को रोकने के लिए खरीदने से पहले 24 घंटे प्रतीक्षा करें।"
+      },
+      {
+        "id": 14,
+        "tip": "Find a High-Yield Savings Account (HYSA)",
+        "detail": "Move your emergency and short-term funds to an HYSA to earn significantly more interest than a traditional savings account.",
+        "detail_hindi": "पारंपरिक बचत खाते की तुलना में काफी अधिक ब्याज अर्जित करने के लिए अपने आपातकालीन और अल्पकालिक फंड को HYSA में ले जाएं।"
+      },
+      {
+        "id": 15,
+        "tip": "Use Discount Tools & Coupons",
+        "detail": "Use browser extensions or apps that automatically find and apply coupon codes or cashback offers for online purchases.",
+        "detail_hindi": "ब्राउज़र एक्सटेंशन या ऐप्स का उपयोग करें जो स्वचालित रूप से ऑनलाइन खरीद के लिए कूपन कोड या कैशबैक ऑफ़र ढूंढते और लागू करते हैं।"
+      },
+      {
+        "id": 16,
+        "tip": "Review Your Insurance Policies Annually",
+        "detail": "Shop around for better rates on auto and home insurance at least once a year to ensure you are not overpaying for coverage.",
+        "detail_hindi": "कवरेज के लिए अधिक भुगतान नहीं कर रहे हैं यह सुनिश्चित करने के लिए वर्ष में कम से कम एक बार ऑटो और गृह बीमा पर बेहतर दरों के लिए खरीदारी करें।"
+      },
+      {
+        "id": 17,
+        "tip": "Minimize Credit Card Interest",
+        "detail": "Use credit cards only for rewards and protection, but pay the statement balance in full every single month to avoid high-interest charges.",
+        "detail_hindi": "क्रेडिट कार्ड का उपयोग केवल पुरस्कार और सुरक्षा के लिए करें, लेकिन उच्च-ब्याज शुल्क से बचने के लिए हर महीने स्टेटमेंट बैलेंस का पूरा भुगतान करें।"
+      },
+      {
+        "id": 18,
+        "tip": "Lower Transportation Costs",
+        "detail": "Consider carpooling, using public transit, or reducing unnecessary vehicle use to save on gas, insurance, and maintenance.",
+        "detail_hindi": "गैस, बीमा, और रखरखाव पर बचत करने के लिए कारपूलिंग, सार्वजनिक पारगमन का उपयोग करने, या अनावश्यक वाहन उपयोग को कम करने पर विचार करें।"
+      },
+      {
+        "id": 19,
+        "tip": "Track Your Net Worth",
+        "detail": "Regularly calculate your assets (what you own) minus your liabilities (what you owe) to monitor your overall financial health and progress.",
+        "detail_hindi": "अपने समग्र वित्तीय स्वास्थ्य और प्रगति की निगरानी के लिए नियमित रूप से अपनी संपत्ति (जो आपके पास है) में से अपनी देनदारियों (जो आप पर बकाया है) को घटाएं।"
+      },
+      {
+        "id": 20,
+        "tip": "Explore Additional Income Streams",
+        "detail": "Look for opportunities to earn extra income, such as a side hustle or selling unused items, to boost your saving potential.",
+        "detail_hindi": "अपनी बचत क्षमता को बढ़ावा देने के लिए अतिरिक्त आय अर्जित करने के अवसरों की तलाश करें, जैसे कि एक साइड हसल या अप्रयुक्त वस्तुओं को बेचना।"
+      }
+    ],
+    "scam_alerts": [
+      {
+        "id": 1,
+        "scam_name": "Imposter Scams (Government/Bank)",
+        "warning_sign": "Contact from an 'official' (IRS, police, bank) demanding immediate payment or else facing penalty/arrest.",
+        "prevention_tip": "Hang up immediately. Call the institution/agency back using a verified, official phone number listed on their website, not the one that called you.",
+        "warning_sign_hindi": "'अधिकारी' (IRS, पुलिस, बैंक) से तत्काल भुगतान की मांग करते हुए या अन्यथा जुर्माना/गिरफ्तारी का सामना करने की धमकी देते हुए संपर्क।",
+        "prevention_tip_hindi": "तुरंत फोन काट दें। उस संस्था/एजेंसी को उनकी वेबसाइट पर सूचीबद्ध एक सत्यापित, आधिकारिक फोन नंबर का उपयोग करके वापस कॉल करें, न कि उस नंबर से जिसने आपको कॉल किया था।"
+      },
+      {
+        "id": 2,
+        "scam_name": "Phishing/Smishing",
+        "warning_sign": "Unsolicited email or text with an urgent security alert or invoice asking you to click a link to 'verify' or 'update' your account.",
+        "prevention_tip": "Never click on links in suspicious messages. Log in directly to the company's official website or app to check your account status.",
+        "warning_sign_hindi": "एक जरूरी सुरक्षा चेतावनी या चालान के साथ अवांछित ईमेल या टेक्स्ट आपको अपने खाते को 'सत्यापित' या 'अपडेट' करने के लिए एक लिंक पर क्लिक करने के लिए कह रहा है।",
+        "prevention_tip_hindi": "संदिग्ध संदेशों में लिंक पर कभी भी क्लिक न करें। अपने खाते की स्थिति की जांच के लिए सीधे कंपनी की आधिकारिक वेबसाइट या ऐप में लॉग इन करें।"
+      },
+      {
+        "id": 3,
+        "scam_name": "High-Risk Investment Fraud",
+        "warning_sign": "Guarantees of high, unrealistic returns (e.g., 20%+ monthly) with little to no risk, often pitched as an 'insider tip'.",
+        "prevention_tip": "If it sounds too good to be true, it is. All investments carry risk. Only invest through registered, licensed financial institutions.",
+        "warning_sign_hindi": "कम या बिना जोखिम के उच्च, अवास्तविक रिटर्न (उदाहरण के लिए, 20%+ मासिक) की गारंटी, जिसे अक्सर 'अंदरूनी सूत्र टिप' के रूप में प्रचारित किया जाता है।",
+        "prevention_tip_hindi": "अगर यह सच होने के लिए बहुत अच्छा लगता है, तो यह है। सभी निवेशों में जोखिम होता है। केवल पंजीकृत, लाइसेंस प्राप्त वित्तीय संस्थानों के माध्यम से ही निवेश करें।"
+      },
+      {
+        "id": 4,
+        "scam_name": "Suspicious Payment Demand",
+        "warning_sign": "Being told you must pay *only* with gift cards, cryptocurrency, or wire transfers to settle a debt or collect a prize.",
+        "prevention_tip": "Legitimate businesses and government agencies never demand payment in these irreversible forms. Refuse and report the contact.",
+        "warning_sign_hindi": "आपको बताया जा रहा है कि आपको ऋण निपटाने या पुरस्कार लेने के लिए *केवल* उपहार कार्ड, क्रिप्टोक्यूरेंसी, या वायर ट्रांसफर से भुगतान करना होगा।",
+        "prevention_tip_hindi": "जायज व्यवसाय और सरकारी एजेंसियां कभी भी इन अपरिवर्तनीय रूपों में भुगतान की मांग नहीं करती हैं। संपर्क को मना करें और रिपोर्ट करें।"
+      },
+      {
+        "id": 5,
+        "scam_name": "Tech Support Scam",
+        "warning_sign": "An unprompted call or pop-up warns you of a severe virus on your computer and demands remote access or payment for a 'fix'.",
+        "prevention_tip": "Do not grant remote access. Legitimate tech companies do not cold-call about security issues. Close the pop-up and run your own antivirus software.",
+        "warning_sign_hindi": "एक अप्रत्याशित कॉल या पॉप-अप आपको आपके कंप्यूटर पर एक गंभीर वायरस की चेतावनी देता है और 'ठीक' करने के लिए दूरस्थ पहुंच या भुगतान की मांग करता है।",
+        "prevention_tip_hindi": "दूरस्थ पहुंच न दें। जायज टेक कंपनियां सुरक्षा मुद्दों के बारे में कोल्ड-कॉल नहीं करती हैं। पॉप-अप को बंद करें और अपना स्वयं का एंटीवायरस सॉफ़्टवेयर चलाएं।"
+      },
+      {
+        "id": 6,
+        "scam_name": "Emergency/Grandparent Scam",
+        "warning_sign": "A 'loved one' calls or texts with an urgent, secret emergency (e.g., car crash, arrest) and needs money wired immediately.",
+        "prevention_tip": "Verify the story by calling the family member back on a known, trusted phone number, or try to contact another family member first.",
+        "warning_sign_hindi": "एक 'प्यारा व्यक्ति' एक जरूरी, गुप्त आपात स्थिति (जैसे, कार दुर्घटना, गिरफ्तारी) के साथ कॉल या टेक्स्ट करता है और तुरंत पैसे वायर करने की आवश्यकता होती है।",
+        "prevention_tip_hindi": "परिवार के सदस्य को एक ज्ञात, विश्वसनीय फोन नंबर पर वापस कॉल करके कहानी को सत्यापित करें, या पहले किसी अन्य परिवार के सदस्य से संपर्क करने का प्रयास करें।"
+      },
+      {
+        "id": 7,
+        "scam_name": "Advance Fee/Prize Scam",
+        "warning_sign": "Being told you must pay an upfront fee, tax, or deposit to receive a large prize, inheritance, or to recover lost money.",
+        "prevention_tip": "The requirement to pay money to receive a prize is a scam. Never pay for a promised financial windfal.",
+        "warning_sign_hindi": "आपको बताया जा रहा है कि एक बड़ा पुरस्कार, विरासत प्राप्त करने, या खोए हुए पैसे की वसूली के लिए आपको अग्रिम शुल्क, कर, या जमा राशि का भुगतान करना होगा।",
+        "prevention_tip_hindi": "एक पुरस्कार प्राप्त करने के लिए पैसे का भुगतान करने की आवश्यकता एक घोटाला है। वादा किए गए वित्तीय लाभ के लिए कभी भी भुगतान न करें।"
+      },
+      {
+        "id": 8,
+        "scam_name": "Romance Scam",
+        "warning_sign": "An online love interest quickly develops a relationship, but always has an excuse to not meet, and then asks for money for a sudden personal emergency or business investment.",
+        "prevention_tip": "Never send money to someone you have only met online. Be cautious of anyone who quickly moves the relationship off official dating sites.",
+        "warning_sign_hindi": "एक ऑनलाइन प्रेम रुचि जल्दी से एक रिश्ता विकसित करती है, लेकिन हमेशा मिलने का कोई बहाना होता है, और फिर अचानक व्यक्तिगत आपात स्थिति या व्यावसायिक निवेश के लिए पैसे मांगती है।",
+        "prevention_tip_hindi": "किसी ऐसे व्यक्ति को कभी भी पैसे न भेजें जिससे आप केवल ऑनलाइन मिले हों। किसी ऐसे व्यक्ति से सावधान रहें जो रिश्ते को आधिकारिक डेटिंग साइटों से जल्दी हटा देता है।"
+      },
+      {
+        "id": 9,
+        "scam_name": "Crypto 'Pig Butchering'",
+        "warning_sign": "An accidental text or message leads to a 'friendly' stranger who eventually encourages you to invest in a specific, 'guaranteed' crypto trading app.",
+        "prevention_tip": "Never download or invest through an app suggested by an unsolicited contact. Research all investment platforms independently and thoroughly.",
+        "warning_tip_hindi": "एक आकस्मिक टेक्स्ट या संदेश एक 'दोस्ताना' अजनबी की ओर जाता है जो अंततः आपको एक विशिष्ट, 'गारंटीकृत' क्रिप्टो ट्रेडिंग ऐप में निवेश करने के लिए प्रोत्साहित करता है।",
+        "prevention_tip_hindi": "किसी अवांछित संपर्क द्वारा सुझाए गए ऐप के माध्यम से कभी भी डाउनलोड या निवेश न करें। सभी निवेश प्लेटफार्मों पर स्वतंत्र रूप से और अच्छी तरह से शोध करें।"
+      },
+      {
+        "id": 10,
+        "scam_name": "High-Pressure Sales Tactic",
+        "warning_sign": "The seller or caller uses aggressive language, saying the offer is 'only good today' or that you must decide immediately without time to think.",
+        "prevention_tip": "Stop the conversation. Legitimate businesses allow time for you to review a deal. Walk away from any transaction that pressures you to act fast.",
+        "warning_sign_hindi": "विक्रेता या कॉलर आक्रामक भाषा का उपयोग करता है, यह कहते हुए कि प्रस्ताव 'केवल आज के लिए अच्छा है' या आपको सोचने का समय दिए बिना तुरंत निर्णय लेना होगा।",
+        "prevention_tip_hindi": "बातचीत बंद करें। जायज व्यवसाय आपको एक सौदे की समीक्षा करने के लिए समय देते हैं। किसी भी लेन-देन से दूर रहें जो आपको तेजी से कार्य करने के लिए दबाव डालता है।"
+      },
+      {
+        "id": 11,
+        "scam_name": "Fake Check/Overpayment",
+        "warning_sign": "A buyer or client sends you a check for more than the agreed-upon amount and asks you to refund the difference via wire transfer or gift card.",
+        "prevention_tip": "Do not deposit the check or send any money back. The check will eventually be discovered as fake, and you will lose the wired amount.",
+        "warning_sign_hindi": "एक खरीदार या क्लाइंट आपको सहमत राशि से अधिक के लिए एक चेक भेजता है और आपको वायर ट्रांसफर या उपहार कार्ड के माध्यम से अंतर वापस करने के लिए कहता है।",
+        "prevention_tip_hindi": "चेक जमा न करें या कोई पैसा वापस न भेजें। चेक अंततः नकली के रूप में खोजा जाएगा, और आप वायर्ड राशि खो देंगे।"
+      },
+      {
+        "id": 12,
+        "scam_name": "Charity Scam",
+        "warning_sign": "Unsolicited calls or emails for donations, especially after a high-profile disaster, from a charity with a similar but unverified name.",
+        "prevention_tip": "Verify the charity's legitimacy on official government or third-party sites (e.g., Charity Navigator) before donating.",
+        "warning_sign_hindi": "एक उच्च-प्रोफाइल आपदा के बाद विशेष रूप से एक समान लेकिन असत्यापित नाम वाले चैरिटी से दान के लिए अवांछित कॉल या ईमेल।",
+        "prevention_tip_hindi": "दान करने से पहले आधिकारिक सरकारी या तीसरे पक्ष की साइटों (जैसे, चैरिटी नेविगेटर) पर चैरिटी की वैधता सत्यापित करें।"
+      },
+      {
+        "id": 13,
+        "scam_name": "AI Voice/Deepfake Scam",
+        "warning_sign": "Receiving an unexpected call from a familiar voice asking for money urgently, but something about their voice or tone sounds slightly 'off.'",
+        "prevention_tip": "Establish a private, shared code word or security question with your family that must be answered during an emergency call to verify identity.",
+        "warning_sign_hindi": "एक परिचित आवाज से अप्रत्याशित कॉल प्राप्त करना जो तुरंत पैसे मांग रहा है, लेकिन उनकी आवाज या लहजे के बारे में कुछ थोड़ा 'अजीब' लगता है।",
+        "prevention_tip_hindi": "अपने परिवार के साथ एक निजी, साझा कोड शब्द या सुरक्षा प्रश्न स्थापित करें जिसका पहचान सत्यापित करने के लिए एक आपातकालीन कॉल के दौरान जवाब देना होगा।"
+      },
+      {
+        "id": 14,
+        "scam_name": "SIM Swapping/OTP Bot",
+        "warning_sign": "You receive a robotic call or text asking for your One-Time Password (OTP) or Two-Factor Authentication (2FA) code right after a login attempt.",
+        "prevention_tip": "Never share an OTP or 2FA code with anyone, for any reason. Your bank/service provider will never call you to ask for this.",
+        "warning_sign_hindi": "आपको एक रोबोटिक कॉल या टेक्स्ट प्राप्त होता है जो एक लॉगिन प्रयास के तुरंत बाद आपके वन-टाइम पासवर्ड (OTP) या टू-फैक्टर ऑथेंटिकेशन (2FA) कोड के लिए पूछता है।",
+        "prevention_tip_hindi": "किसी भी कारण से, किसी के साथ भी OTP या 2FA कोड कभी साझा न करें। आपका बैंक/सेवा प्रदाता आपसे इसके लिए पूछने के लिए कभी कॉल नहीं करेगा।"
+      },
+      {
+        "id": 15,
+        "scam_name": "Job/Employment Scam",
+        "warning_sign": "A job offer that seems too easy, requires you to pay for training/supplies, or asks you to use your personal funds to process business payments.",
+        "prevention_tip": "Legitimate employers do not require you to pay them to get a job. Be wary of offers that involve transferring money or using your own bank account.",
+        "warning_sign_hindi": "एक नौकरी की पेशकश जो बहुत आसान लगती है, आपको प्रशिक्षण/आपूर्ति के लिए भुगतान करने की आवश्यकता होती है, या आपको व्यावसायिक भुगतान संसाधित करने के लिए अपने व्यक्तिगत धन का उपयोग करने के लिए कहती है।",
+        "prevention_tip_hindi": "जायज नियोक्ता आपको नौकरी पाने के लिए उन्हें भुगतान करने की आवश्यकता नहीं करते हैं। उन प्रस्तावों से सावधान रहें जिनमें पैसे ट्रांसफर करना या अपने स्वयं के बैंक खाते का उपयोग करना शामिल है।"
+      },
+      {
+        "id": 16,
+        "scam_name": "Malicious QR Code/URL Link",
+        "warning_sign": "Scanning a suspicious QR code or clicking a link that directs you to a website with a misspelled or non-secure URL (no HTTPS).",
+        "prevention_tip": "Always check the full URL for misspellings before entering any personal information. Avoid scanning QR codes in public, non-official places.",
+        "warning_sign_hindi": "एक संदिग्ध QR कोड स्कैन करना या एक लिंक पर क्लिक करना जो आपको गलत वर्तनी वाले या गैर-सुरक्षित URL (कोई HTTPS नहीं) वाली वेबसाइट पर निर्देशित करता है।",
+        "prevention_tip_hindi": "कोई भी व्यक्तिगत जानकारी दर्ज करने से पहले हमेशा गलत वर्तनी के लिए पूर्ण URL की जांच करें। सार्वजनिक, गैर-आधिकारिक स्थानों पर QR कोड स्कैन करने से बचें।"
+      },
+      {
+        "id": 17,
+        "scam_name": "Unregistered Seller/Advisor",
+        "warning_sign": "A person selling an investment refuses to provide their registration details or their firm's background information upon request.",
+        "prevention_tip": "Verify the financial advisor's registration status through your country's financial regulatory body (e.g., FINRA's BrokerCheck).",
+        "warning_sign_hindi": "एक व्यक्ति जो एक निवेश बेच रहा है, अनुरोध पर अपने पंजीकरण विवरण या अपनी फर्म की पृष्ठभूमि की जानकारी प्रदान करने से इनकार करता है।",
+        "prevention_tip_hindi": "अपने देश के वित्तीय नियामक निकाय (उदाहरण के लिए, FINRA का ब्रोकरचेक) के माध्यम से वित्तीय सलाहकार की पंजीकरण स्थिति सत्यापित करें।"
+      },
+      {
+        "id": 18,
+        "scam_name": "Illegal Debt Collection",
+        "warning_sign": "A collector threatens immediate arrest, lawsuit, or criminal charges if you do not pay a debt right now over the phone.",
+        "prevention_tip": "Collectors cannot legally threaten criminal charges for non-payment of debt. Demand a written validation of the debt first and research the collection agency.",
+        "warning_sign_hindi": "एक संग्रहकर्ता धमकी देता है कि यदि आप अभी फोन पर ऋण का भुगतान नहीं करते हैं तो तत्काल गिरफ्तारी, मुकदमा, या आपराधिक आरोपों का सामना करना होगा।",
+        "prevention_tip_hindi": "संग्रहकर्ता कानूनी रूप से ऋण के गैर-भुगतान के लिए आपराधिक आरोपों की धमकी नहीं दे सकते हैं। पहले ऋण का एक लिखित सत्यापन मांगें और संग्रह एजेंसी पर शोध करें।"
+      },
+      {
+        "id": 19,
+        "scam_name": "Card Skimming",
+        "warning_sign": "The card reader or PIN pad on an ATM or gas pump looks loose, oddly-colored, or misaligned, indicating an external device has been attached.",
+        "prevention_tip": "Always check the card reader and keypad for unusual attachments. Cover the keypad with your hand when entering your PIN.",
+        "warning_sign_hindi": "ATM या गैस पंप पर कार्ड रीडर या PIN पैड ढीला, अजीब रंग का, या गलत संरेखित दिखता है, जो दर्शाता है कि एक बाहरी उपकरण संलग्न किया गया है।",
+        "prevention_tip_hindi": "असामान्य अनुलग्नकों के लिए हमेशा कार्ड रीडर और कीपैड की जांच करें। अपना PIN दर्ज करते समय कीपैड को अपने हाथ से ढकें।"
+      },
+      {
+        "id": 20,
+        "scam_name": "Affinity Fraud",
+        "warning_sign": "A financial opportunity promoted by a member of your trusted social, religious, or ethnic community promising great returns to members only.",
+        "prevention_tip": "Trust should be earned, not assumed. Vet all investment opportunities independently, even if promoted by a friend or trusted group member.",
+        "warning_sign_hindi": "आपके विश्वसनीय सामाजिक, धार्मिक, या जातीय समुदाय के एक सदस्य द्वारा प्रचारित एक वित्तीय अवसर केवल सदस्यों को महान रिटर्न का वादा करता है।",
+        "prevention_tip_hindi": "भरोसा कमाया जाना चाहिए, न कि मान लिया जाना चाहिए। सभी निवेश अवसरों को स्वतंत्र रूप से जांचें, भले ही उन्हें किसी दोस्त या विश्वसनीय समूह के सदस्य द्वारा प्रचारित किया गया हो।"
+      }
+    ]
+  }
+}
